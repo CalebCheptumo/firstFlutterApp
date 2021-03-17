@@ -1,5 +1,5 @@
 # firstFlutterApp
-Fist App
+First App
 
 
 ## Getting Started
